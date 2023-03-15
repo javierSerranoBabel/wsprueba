@@ -1,5 +1,5 @@
 {
   "alumno" : "Pepe",
   "edad" : 13,
-  tecnologias : ["Node","React","Java"]
+  "tecnologias" : ["Node","React","Java"]
 }
